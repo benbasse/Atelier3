@@ -1,0 +1,7 @@
+Pour executer le code python dans le fichier code.py voici les instructions à suivre :
+1. Assurez-vous d'avoir Python installé sur votre ordinateur.
+2. Ouvrir votre terminal.
+3.Accédez au répertoire ou se trouve le fichier "code.py".
+4. Exécutez le code en tapant : python code.py
+5. Suivez les instructions à l'écran pour entrer les deux nombres. 
+6. Le programme affichera la somme des deux nombres.
